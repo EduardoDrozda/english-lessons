@@ -165,122 +165,122 @@ It's important to note that the use of Simple Present and Present Continuous dep
 
 ## Exercises to practice a Present Continuous
 
-1. **Exercício:** She reading (read) a book right now.
+1. **Exercício:** She's reading (read) a book right now.
    **Tradução:** Ela está lendo um livro agora.
 
-2. **Exercício:** They (play) soccer in the park at the moment.
+2. **Exercício:** They're playing (play) soccer in the park at the moment.
    **Tradução:** Eles estão jogando futebol no parque neste momento.
 
-3. **Exercício:** I (watch) TV tonight.
+3. **Exercício:** I'm watching (watch) TV tonight.
    **Tradução:** Eu estou assistindo TV hoje à noite.
 
-4. **Exercício:** He (work) on a project this week.
+4. **Exercício:** He's working (work) on a project this week.
    **Tradução:** Ele está trabalhando em um projeto esta semana.
 
-5. **Exercício:** Maria and Carlos (travel) to Paris next month.
+5. **Exercício:** Maria and Carlos are traveling (travel) to Paris next month.
    **Tradução:** Maria e Carlos estão viajando para Paris no próximo mês.
 
-6. **Exercício:** Cats (sleep) a lot during the day.
+6. **Exercício:** Cats are sleeping (sleep) a lot during the day.
    **Tradução:** Gatos dormem muito durante o dia.
 
-7. **Exercício:** We (have) dinner with friends tonight.
+7. **Exercício:** We're having (have) dinner with friends tonight.
    **Tradução:** Nós estamos jantando com amigos esta noite.
 
-8. **Exercício:** The sun (shine) brightly today.
+8. **Exercício:** The sun's shining (shine) brightly today.
    **Tradução:** O sol está brilhando intensamente hoje.
 
-9. **Exercício:** My parents (visit) us this weekend.
+9. **Exercício:** My parents are visiting (visit) us this weekend.
    **Tradução:** Meus pais estão nos visitando neste fim de semana.
 
-10. **Exercício:** The Earth (rotate) on its axis.
+10. **Exercício:** The Earth is rotating (rotate) on its axis.
     **Tradução:** A Terra está girando em seu eixo.
 
-11. **Exercício:** Sarah (drink) tea right now.
+11. **Exercício:** Sarah's drinking (drink) tea right now.
     **Tradução:** Sarah está bebendo chá neste momento.
 
-12. **Exercício:** They (study) English at the language school this semester.
+12. **Exercício:** They're studing (study) English at the language school this semester.
     **Tradução:** Eles estão estudando inglês na escola de idiomas neste semestre.
 
-13. **Exercício:** The company (produce) high-quality products this year.
+13. **Exercício:** The company is producing (produce) high-quality products this year.
     **Tradução:** A empresa está produzindo produtos de alta qualidade este ano.
 
-14. **Exercício:** Dogs (bark) when they see strangers.
+14. **Exercício:** Dogs are barking (bark) when they see strangers.
     **Tradução:** Os cães latem quando veem estranhos.
 
-15. **Exercício:** We (take) a vacation in July.
+15. **Exercício:** We're taking (take) a vacation in July.
     **Tradução:** Nós estamos tirando férias em julho.
 
-16. **Exercício:** The school bell (ring) at 3 PM.
+16. **Exercício:** The school is belling (ring) at 3 PM.
     **Tradução:** O sino da escola está tocando às 15h.
 
-17. **Exercício:** My sister (play) the piano beautifully.
+17. **Exercício:** My sister is playing (play) the piano beautifully.
     **Tradução:** Minha irmã está tocando piano lindamente.
 
-18. **Exercício:** People (use) smartphones for communication nowadays.
+18. **Exercício:** People are using (use) smartphones for communication nowadays.
     **Tradução:** As pessoas estão usando smartphones para comunicação atualmente.
 
-19. **Exercício:** He (visit) his grandmother every Sunday.
+19. **Exercício:** He's visiting (visit) his grandmother every Sunday.
     **Tradução:** Ele está visitando sua avó todo domingo.
 
-20. **Exercício:** The cat (sleep) on the couch right now.
+20. **Exercício:** The cat's sleepping (sleep) on the couch right now.
     **Tradução:** O gato está dormindo no sofá neste momento.
 
-21. **Exercício:** I (learn) a new language this year.
+21. **Exercício:** I'm learning (learn) a new language this year.
     **Tradução:** Eu estou aprendendo um novo idioma este ano.
 
-22. **Exercício:** They (run) a marathon next month.
+22. **Exercício:** They'are running (run) a marathon next month.
     **Tradução:** Eles estão correndo uma maratona no próximo mês.
 
-23. **Exercício:** She (cook) dinner for her family tonight.
+23. **Exercício:** She's cooking (cook) dinner for her family tonight.
     **Tradução:** Ela está cozinhando o jantar para sua família esta noite.
 
-24. **Exercício:** It (rain) outside right now.
+24. **Exercício:** It's raining (rain) outside right now.
     **Tradução:** Está chovendo lá fora neste momento.
 
-25. **Exercício:** We (build) a new house this year.
+25. **Exercício:** We'are building (build) a new house this year.
     **Tradução:** Nós estamos construindo uma casa nova este ano.
 
-26. **Exercício:** The kids (play) in the garden today.
+26. **Exercício:** The kids are playing (play) in the garden today.
     **Tradução:** As crianças estão brincando no jardim hoje.
 
-27. **Exercício:** He (fix) the car this weekend.
+27. **Exercício:** He's fixing (fix) the car this weekend.
     **Tradução:** Ele está consertando o carro neste fim de semana.
 
-28. **Exercício:** She (write) a novel these days.
+28. **Exercício:** She's writing (write) a novel these days.
     **Tradução:** Ela está escrevendo um romance nestes dias.
 
-29. **Exercício:** They (swim) in the pool right now.
+29. **Exercício:** They're swiming (swim) in the pool right now.
     **Tradução:** Eles estão nadando na piscina neste momento.
 
-30. **Exercício:** We (visit) our grandparents next weekend.
+30. **Exercício:** We'are visiting (visit) our grandparents next weekend.
     **Tradução:** Nós vamos visitar nossos avós no próximo fim de semana.
 
-31. **Exercício:** The chef (prepare) a special dish tonight.
+31. **Exercício:** The chef is preparing (prepare) a special dish tonight.
     **Tradução:** O chef está preparando um prato especial esta noite.
 
-32. **Exercício:** He (work) at a new job this month.
+32. **Exercício:** He's working (work) at a new job this month.
     **Tradução:** Ele está trabalhando em um novo emprego este mês.
 
-33. **Exercício:** They (play) a board game this evening.
+33. **Exercício:** They'are playing (play) a board game this evening.
     **Tradução:** Eles estão jogando um jogo de tabuleiro esta noite.
 
-34. **Exercício:** She (read) a magazine right now.
+34. **Exercício:** She's reading (read) a magazine right now.
     **Tradução:** Ela está lendo uma revista neste momento.
 
-35. **Exercício:** We (travel) to Europe next year.
+35. **Exercício:** We'are traveling (travel) to Europe next year.
     **Tradução:** Nós estamos viajando para a Europa no próximo ano.
 
-36. **Exercício:** The construction workers (build) a skyscraper this decade.
+36. **Exercício:** The construction workers are building (build) a skyscraper this decade.
     **Tradução:** Os trabalhadores da construção estão construindo um arranha-céu nesta década.
 
-37. **Exercício:** They (decorate) the house for the holidays this week.
+37. **Exercício:** They're decorating (decorate) the house for the holidays this week.
     **Tradução:** Eles estão decorando a casa para as festas esta semana.
 
-38. **Exercício:** She (paint) a beautiful picture today.
+38. **Exercício:** She's paitining (paint) a beautiful picture today.
     **Tradução:** Ela está pintando uma imagem bonita hoje.
 
-39. **Exercício:** We (camp) in the mountains this summer.
+39. **Exercício:** We're camping (camp) in the mountains this summer.
     **Tradução:** Nós estamos acampando nas montanhas neste verão.
 
-40. **Exercício:** The students (study) for their exams this month.
+40. **Exercício:** The students are studying (study) for their exams this month.
     **Tradução:** Os alunos estão estudando para suas provas este mês.
