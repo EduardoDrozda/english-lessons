@@ -78,7 +78,7 @@ de três ou mais. Ele destaca o grau máximo de uma característica.
 - *He bought the cheapest phone in the store.* (Ele comprou o telefone mais barato da loja.)
 
 # 5. **Observações importantes comparative/superlative:**
-    As regras a seguir são aplicadas tanto para comparative quanto para superlative.
+  As regras a seguir são aplicadas tanto para comparative quanto para superlative.
 
 - **Quando o adjetivo termina em "e":** Adiciona-se “-r” para formar o comparative e “-st” para o superlative.
     - Exemplo para *comparative*: *large* → *larger*
