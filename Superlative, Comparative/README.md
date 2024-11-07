@@ -137,35 +137,35 @@ Use the correct **comparative** form to complete the sentences.
 
 ### 6.2.1. List 1: Adjectives Ending in “e”
 Complete the sentences using the correct **superlative** form of the adjective in parentheses.
-1. That building is the ___ (**wide**) in the city.
-2. He is the ___ (**nice**) person in our class.
-3. This is the ___ (**simple**) solution we have.
-4. The mountain is the ___ (**large**) in the region.
-5. She chose the ___ (**close**) spot to park.
+1. That building is the **widest** (**wide**) in the city.
+2. He is the **nicest** (**nice**) person in our class.
+3. This is the **simplest** (**simple**) solution we have.
+4. The mountain is the **largest** (**large**) in the region.
+5. She chose the **closest** (**close**) spot to park.
 
 ### 6.2.2. List 2: Short Adjectives Ending in Consonant-Vowel-Consonant
 Complete the sentences using the correct **superlative** form of the adjective in parentheses.
-1. This is the ___ (**big**) cake I’ve ever seen.
-2. Today is the ___ (**hot**) day of the year.
-3. He is the ___ (**fast**) swimmer on the team.
-4. This is the ___ (**wet**) season we’ve experienced.
-5. The cat is the ___ (**fat**) in the neighborhood.
+1. This is the **biggest** (**big**) cake I’ve ever seen.
+2. Today is the **hottest** (**hot**) day of the year.
+3. He is the **fasttest** (**fast**) swimmer on the team.
+4. This is the **wettest** (**wet**) season we’ve experienced.
+5. The cat is the **fattest** (**fat**) in the neighborhood.
 
 ### 6.2.3. List 3: Adjectives Ending in “y”
 Complete the sentences using the correct **superlative** form of the adjective in parentheses.
-1. She was the ___ (**happy**) person at the party.
-2. It was the ___ (**easy**) test of the semester.
-3. He is the ___ (**funny**) comedian on TV.
-4. This is the ___ (**dusty**) road in the city.
-5. They are the ___ (**angry**) customers we’ve dealt with.
+1. She was the **happiest** (**happy**) person at the party.
+2. It was the **easiest** (**easy**) test of the semester.
+3. He is the **funniest** (**funny**) comedian on TV.
+4. This is the **dustiest** (**dusty**) road in the city.
+5. They are the **angriest** (**angry**) customers we’ve dealt with.
 
 ### 6.2.4. List 4: Long Adjectives
 Complete the sentences using *“most”* before the given adjective.
-1. She is the ___ (*beautiful*) actress in the show.
-2. This is the ___ (*interesting*) book I have ever read.
-3. That was the ___ (*expensive*) item in the store.
-4. This is the ___ (*informative*) lecture we’ve attended.
-5. He is the ___ (*talented*) musician in the group.
+1. She is the **most beautiful** (*beautiful*) actress in the show.
+2. This is the **most interesting** (*interesting*) book I have ever read.
+3. That was the **least expensive** (*expensive*) item in the store.
+4. This is the **most informative** (*informative*) lecture we’ve attended.
+5. He is the **most talented** (*talented*) musician in the group.
 
 ### 6.2.5. List 5: Irregular Adjectives
 Use the correct **superlative** form to complete the sentences.
